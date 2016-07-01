@@ -4,16 +4,10 @@ slug: brainstorming
 ---
 
 ##Brainstorming problems and solutions
-This slideshow will help you brainstorm problems and solutions to those problems.
-
-![ms-pdf](./AppsBrainstormingDay1.pdf)
+[This slideshow](AppsBrainstormingDay1.pdf) will help you brainstorm problems and solutions to those problems.
 
 ##Idea evaluation and creating MVPs
-This slideshow tells how to evaluate your idea and create an MVP.
-
-![ms-pdf](./AppsBrainstormingDay2.pdf)
+[This slideshow](AppsBrainstormingDay2.pdf) tells how to evaluate your idea and create an MVP.
 
 ##Pitches
-This slideshow is an activity on creating pitches.
-
-![ms-pdf](./AppsBrainstormingDay3.pdf)
+[This slideshow](AppsBrainstormingDay3.pdf) is an activity on creating pitches.
