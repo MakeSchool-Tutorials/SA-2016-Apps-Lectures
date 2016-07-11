@@ -7,7 +7,7 @@ This lecture covers the mindset you should have to become the most effective sof
 
 ![ms-video-youtube](https://www.youtube.com/watch?v=0wteoPtwwh8)
 
-<embed src="https://github.com/MakeSchool-Tutorials/SA-2016-Apps-Lectures/raw/master/P4-Development-Mindset/DevelopmentMindsetLecture.pdf" width="640" height="360" type='application/pdf'>
+<!--<embed src="https://github.com/MakeSchool-Tutorials/SA-2016-Apps-Lectures/raw/master/P4-Development-Mindset/DevelopmentMindsetLecture.pdf" width="640" height="360" type='application/pdf'>-->
 
 [Click here to download the slides](https://github.com/MakeSchool-Tutorials/SA-2016-Apps-Lectures/raw/master/P4-Development-Mindset/DevelopmentMindsetLecture.pdf)
 
