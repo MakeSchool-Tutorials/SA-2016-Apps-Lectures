@@ -1,6 +1,6 @@
 ---
 title: "Copyright"
-slug: copyright
+slug: copyright-2016
 ---
 
 This lecture covers the rules of copyright and how to protect yourself when using free assets.

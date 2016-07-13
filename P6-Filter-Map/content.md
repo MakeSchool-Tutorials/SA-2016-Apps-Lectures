@@ -1,6 +1,6 @@
 ---
 title: "Filter & Map"
-slug: filter-and-map
+slug: filter-and-map-swift-2
 ---
 
 This lecture covers how to use `filter` and `map` in Swift.

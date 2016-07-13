@@ -1,6 +1,6 @@
 ---
-title: "Help Queue & Effective Questions"
-slug: help-queue
+title: "User Testing Guidelines"
+slug: user-testing-2016
 ---
 
 This lecture covers how ask effective questions and use the help queue.

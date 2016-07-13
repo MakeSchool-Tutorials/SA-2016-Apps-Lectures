@@ -1,6 +1,6 @@
 ---
 title: "Profiling Memory Issues"
-slug: profiling-memory-issues
+slug: profiling-memory-issues-swift-2
 ---
 
 This lecture covers how to use the `strong` and `weak` keywords in Swift. It also covers how to use the profiling tools built into Xcode.

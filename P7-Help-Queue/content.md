@@ -1,6 +1,6 @@
 ---
 title: "Help Queue & Effective Questions"
-slug: help-queue
+slug: help-queue-2016
 ---
 
 This lecture covers how ask effective questions and use the help queue.
